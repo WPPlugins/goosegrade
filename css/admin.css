@@ -1,0 +1,233 @@
+#goose-grade-table {
+   font-size: 12px;
+}
+
+#goose-grade-table #top-area {
+   float: left;
+   width: 100%;  
+}
+
+#gg_corrections_list tr.warning {
+	background: #ffd8d8;
+}
+
+#goose-grade-table #top-area img {
+   float: right;  
+   position: relative;
+   top: -10px;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+
+#gg_page_nav {
+	text-align: right;
+	font-weight: bold;
+}
+
+#goosegrade-settings {
+   
+}
+
+#gg_currently_empty {
+	padding: 5px;
+   -moz-border-radius: 3px;
+   -webkit-border-radius: 3px;   
+   border: 1px solid #ddd;
+}
+
+#goosegrade-settings .settings-wrapper {
+}
+
+#goosegrade-settings .settings-wrapper h3 {
+   margin-top: 20px;
+   border-bottom: 1px solid #ccc;
+   display: block;
+   padding-bottom: 5px;
+}
+
+#goosegrade-settings .left-settings {
+   font-size: 0.85em;
+   float: left;
+   width: 290px;  
+   margin-top: 10px;
+   margin-bottom: 10px;
+   padding-right: 20px;
+}
+
+#goosegrade-settings .right-settings {
+   width: 650px;  
+   font-size: 0.85em;
+   border-left: 1px solid #eee;
+   padding-left: 25px;
+   float: left;
+}
+
+#goosegrade-settings .right-settings ul {
+   list-style-type: none;
+   padding-left: 0px;
+   margin-left: 0px;
+}
+
+#goosegrade-settings .form-item label {
+   width: 180px;  
+   display: block;
+   float: left;
+   padding-top: 5px;
+   font-size: 0.9em;
+}
+
+#gg_logo {
+	float: right;
+}
+
+#gg_logo img {
+	width: 180px;
+	position: relative;
+	top: 30px;
+}
+
+#gg_corrections_list .correction-details .gg_changed {
+	background: #cfc;
+	border: 1px dashed #888;
+	padding-left: 5px;
+	padding-right: 5px;
+	font-weight: bold;
+}
+
+#gg_corrections_list .correction-details {
+	background: #f8f8f8;
+}
+
+#gg_corrections_list h3 {
+	margin-top: 0px;
+	font-size: 12px;
+}
+
+
+
+#goosegrade-settings .form-item input {
+   font-size: 11px;
+   color: #555;
+   -moz-border-radius: 3px;
+   -webkit-border-radius: 3px;   
+   border: 1px solid #aaa;
+   padding: 3px;
+}  
+
+#goosegrade-settings .form-item input:hover {
+   background: #dfd;  
+}
+
+#goosegrade-settings .form-item #username {
+   width: 220px;  
+}
+
+#goosegrade-settings .form-item #token {
+   width: 300px;  
+}
+
+#goosegrade-settings .form-item {
+   clear: both;
+   padding-top: 3px;
+   padding-bottom: 3px;   
+}     
+
+.goosegrade-clearer {
+   clear: both;
+}
+
+#goosegrade-settings .goosegrade-error {
+   padding: 10px;
+   background: #fdd;  
+   border: 1px solid #888;
+   -moz-border-radius: 5px;
+   -webkit-border-radius: 5px;     
+   font-size: 0.9em;
+   font-weight: bold;
+   margin-top: 20px;
+}
+
+#goosegrade-settings .goosegrade-success {
+   padding: 10px;
+   background: #dfd;  
+   border: 1px solid #888;
+   -moz-border-radius: 5px;
+   -webkit-border-radius: 5px;     
+   font-size: 0.9em;
+   font-weight: bold;
+   margin-top: 20px;
+}
+
+#goosegrade-settings #accept-menu {
+	font-size: 11px;
+	margin-bottom: 15px;
+	float: left;
+}
+
+#goosegrade-settings #accept-menu a {
+	text-decoration: none;
+}
+
+#goosegrade-settings #show .left {
+	float: left;
+	width: 80px;
+}
+
+#goosegrade-settings .user-photo {
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-right: 20px;
+}
+
+#goosegrade-settings .user-photo img {
+	width: 50px;
+
+}
+
+#goosegrade-settings #show .correction-area {
+	padding-bottom: 5px;
+	border-bottom: 0px;
+}
+
+#goosegrade-settings #show .right {
+	float: left;
+	width: 300px;
+}
+
+#tablenav {
+   width: 100%;
+}  
+
+#gg_profile_box {
+	float: right;
+	margin-bottom: 10px;
+}
+
+#user-info .gg_profile_left {
+	float: left;
+}
+
+#user-info .gg_profile_right {
+	float: right;
+}
+
+#user-info .gg_profile_right {
+	width: 150px;
+	text-align: right;
+}
+
+#user-info .gg_profile_right h1 {
+	margin: 0px;
+	padding: 0px;
+	font-size: 15px;
+}
+
+#user-info .gg_profile_right h2 {
+	margin: 0px;
+	padding: 0px;
+	font-size: 14px;
+	position:relative;
+	top: -5px;
+}
+

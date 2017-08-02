@@ -1,0 +1,14 @@
+.goosegrade-badge-right { 
+   float: right; 
+   padding-left: 10px;
+   padding-bottom: 10px; 
+}
+.goosegrade-badge-left { 
+   float: left; 
+   padding-right: 10px;
+   padding-bottom: 10px; 
+}
+.goosegrade-clear { 
+   clear: both; 
+}
+

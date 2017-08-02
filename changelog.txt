@@ -1,0 +1,35 @@
+* Version 1.08 *
+
+- Initial release
+
+* Version 1.07 *
+
+- Modified settings area
+
+* Version 1.05 *
+
+- Changed error messages
+- Added tooltip guides
+
+* Version 1.04 *
+
+- Changes to the settings page
+- Fixed quotation problem
+
+* Version 1.03 *
+
+- Fixed issue where the menu correction count didn't use the site ID
+- Fixed reference to graphic logo in corrections area
+
+* Version 1.02 *
+
+- Fixed profile box information
+
+* Version 1.01 *
+
+- Fixed updating post content when correction accepted
+- Added support for various widgets
+
+* Version 1.00 *
+
+- Initial release
